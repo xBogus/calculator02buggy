@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jon\documents\cpp testfolder\calculator02buggy\calculator02buggy\main.cpp(128): warning C4715: 'primary': not all control paths return a value
+c:\users\jon\documents\cpp testfolder\calculator02buggy\calculator02buggy\main.cpp(94): warning C4715: 'Token_stream::get': not all control paths return a value
+  calculator02buggy.vcxproj -> C:\Users\Jon\Documents\CPP testfolder\calculator02buggy\Debug\calculator02buggy.exe
